@@ -1,0 +1,140 @@
+
+/*************** FOUNDATION *******/
+.donate {
+
+    /* text-transform: lowercase; */
+    font-family: 'Inconsolata', monospace;
+    font-size: 24px;
+    text-align: center;
+}
+
+.dbdy {
+    background-image: url(https://aviciiexperience.com/wp-content/uploads/2021/08/Tim-Bergling-Foundation-logo-1-1080x825.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    background-position-y: 230px;
+    
+}
+
+.others {
+    font-family: 'Inconsolata', monospace;
+    font-size: 19px;
+    text-align: center;
+}
+
+
+.donlogos {
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+.minds {
+    margin-top: -50px;
+    margin-left: 40px;
+
+}
+/*************** FOUNDATION *******/
+
+
+
+/*************** MAIN *******/
+
+.mh1 {
+    text-align: left;
+    color: beige;
+}
+
+.mbdy {
+    background-image: url('https://www.billboard.com/wp-content/uploads/media/02-Avicii-life-and-legacy-portrait-2018-billboard-fea-1500.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 10) ;
+}
+
+/*************** MAIN *******/
+
+
+/*************** NAV *******/
+nav {
+    /* background-color:bisque; */
+    /* display: block; */
+    padding: 8px;
+    float: center;
+    text-align: center;
+    font-size: larger;
+    color: bisque;
+}
+/*************** NAV *******/
+
+
+/*************** P *******/
+
+p {
+    color: azure;
+}
+
+/*************** P *******/
+
+
+/*************** LINKS *******/
+    a:link {
+    color: bisque;
+}
+
+    a:visited {
+    color: red;
+}
+
+    a:hover {
+    color:blue;
+}
+
+    a:active {
+    color: bisque;
+}
+/*************** LINKS *******/
+
+
+/*************** ABOUT *******/
+.abdy {
+    background-image: url(https://compote.slate.com/images/c2d03c76-cf68-43d9-b65c-d62cfe5554e9.jpeg?crop=2948%2C1965%2Cx0%2Cy0);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-position-y: 0px;
+    background-color: black;
+}
+
+.ah1 {
+    text-align: left;
+    color: beige;
+}
+
+.abp {    
+    font-family: 'Inconsolata', monospace;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+/*************** ABOUT *******/
+
+
+/*************** SONGS *******/
+
+.sbdy {
+    background-color: black;
+}
+
+.simg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+
+/*************** SONGS *******/
